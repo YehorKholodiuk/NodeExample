@@ -1,0 +1,6 @@
+const {sum,div}= require('./math')
+const upper = require ('./strings')
+console.log('Hello JS123')
+console.log(sum(3,5))
+console.log(div(567,34))
+console.log(upper('enae volare'))
